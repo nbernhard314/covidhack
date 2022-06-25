@@ -10,7 +10,7 @@
     "follow-redirects": "^1.11.0",
     "mongo": "^0.1.0",
     "mongodb": "^3.5.7",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "uuid": "^8.0.0",
     "yelp-fusion": "^2.0.2"
   },
